@@ -1,5 +1,7 @@
 # DCT (Discrete Cosine Transform) for pytorch
 
+Editted as discussed in this [issue](https://github.com/zh217/torch-dct/issues/15#issuecomment-851439294)
+
 [![Build Status](https://travis-ci.com/zh217/torch-dct.svg?branch=master)](https://travis-ci.com/zh217/torch-dct)
 [![codecov](https://codecov.io/gh/zh217/torch-dct/branch/master/graph/badge.svg)](https://codecov.io/gh/zh217/torch-dct)
 [![PyPI version](https://img.shields.io/pypi/v/torch-dct.svg)](https://pypi.python.org/pypi/torch-dct/)
